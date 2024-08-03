@@ -4,5 +4,6 @@
     "plugins": {
       "@nx/vite": "19.5.6"
     }
-  }
+  },
+  "nxCloudAccessToken": "Mjg0MmVlNTgtNTE1Zi00NzFkLTlkMzEtZGY2ZjMyNjcyMjE3fHJlYWQtd3JpdGU="
 }
